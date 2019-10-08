@@ -1,1 +1,5 @@
-
+![Screenshot_Tampilan Awal 1](https://user-images.githubusercontent.com/54838596/66367132-1d3ae300-e9bd-11e9-9147-65f20e77f1b0.png)
+![Screenshot_Tampilan Awal 2](https://user-images.githubusercontent.com/54838596/66367133-1dd37980-e9bd-11e9-8cb0-5227fa82c3f0.png)
+![Screenshot_Akhir](https://user-images.githubusercontent.com/54838596/66367134-1dd37980-e9bd-11e9-9f05-ba48a56eed35.png)
+![Screenshot_Awal](https://user-images.githubusercontent.com/54838596/66367135-1e6c1000-e9bd-11e9-9179-6512d5c9cb60.png)
+![Screenshot_Tampilan Akhir](https://user-images.githubusercontent.com/54838596/66367136-1e6c1000-e9bd-11e9-86f3-223ff5e90205.png)
