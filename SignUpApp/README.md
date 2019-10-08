@@ -5,4 +5,4 @@
 ![SS_Tugas_Tampilan Awal 2](https://user-images.githubusercontent.com/54838596/66367213-7276f480-e9bd-11e9-932e-d314e64fd224.png)
 ![Screenshot_Tampilan Akhir 1](https://user-images.githubusercontent.com/54838596/66367214-730f8b00-e9bd-11e9-87a9-ea30b884de02.png)
 ![Screenshot_Tampilan Akhir 2](https://user-images.githubusercontent.com/54838596/66367216-730f8b00-e9bd-11e9-9936-6b69b6b71ecb.png)
-![Screenshot_Tampilan Akhir](https://user-images.githubusercontent.com/54838596/66367218-73a82180-e9bd-11e9-81cb-8b9f29bb9de6.png)
+
