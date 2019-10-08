@@ -180,11 +180,15 @@
         </RelativeLayout>
 
         <Button
-            android:layout_width="match_parent"
+            android:id="@+id/btn_donasi"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
             android:layout_marginBottom="@dimen/activity_vertical_layout"
             android:layout_marginLeft="@dimen/activity_horizontal_layout"
             android:layout_marginRight="@dimen/activity_horizontal_layout"
+            android:background="@drawable/buttonstyle1"
             android:text="Donasi"/>
 
     </LinearLayout>

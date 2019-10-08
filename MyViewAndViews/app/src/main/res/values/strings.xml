@@ -16,4 +16,9 @@
     <string name="donasi">Donasi Pesawat R80</string>
     <string name="ajakan">Sudah saatnya Indonesia punya pesawat sendiri,
         salurkan donasi anda!</string>
+    <string name="nameA">Nama Anda</string>
+    <string name="alamat">Alamat Email</string>
+    <string name="j_donasi">Jumlah Donasi</string>
+    <string name="catatan">Tambah Catatan</string>
+    <string name="pembayaran">Pembayaran</string>
 </resources>
