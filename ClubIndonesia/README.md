@@ -1,0 +1,6 @@
+![Tampilan_Profile](https://user-images.githubusercontent.com/54838596/68655419-94d2d380-0562-11ea-9b89-8b4bf42500cf.png)
+![Tampilan_CardView_1](https://user-images.githubusercontent.com/54838596/68655421-956b6a00-0562-11ea-84d2-5f96219b584d.png)
+![Tampilan_CardView_2](https://user-images.githubusercontent.com/54838596/68655423-956b6a00-0562-11ea-8591-96aedfa0ca82.png)
+![Tampilan_CardView_3](https://user-images.githubusercontent.com/54838596/68655424-96040080-0562-11ea-86d6-3597f64111aa.png)
+![Tampilan_Detail](https://user-images.githubusercontent.com/54838596/68655425-96040080-0562-11ea-9046-ce3ccffb4e72.png)
+![Tampilan_Detail2](https://user-images.githubusercontent.com/54838596/68655426-96040080-0562-11ea-8dc7-60d7794968c2.png)
