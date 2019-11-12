@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClubIndonesia</string>
+    <string name="app_profile">Biodata Diri</string>
+    <string name="appdetail">Detail Club</string>
+    <string name="club_name">Nama Club</string>
+    <string name="detail">Detail</string>
+    <string name="selengkapnya">Baca Selengkapnya</string>
+    <string name="profile">Profile</string>
+</resources>
